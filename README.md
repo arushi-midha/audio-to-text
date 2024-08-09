@@ -21,10 +21,10 @@ This Streamlit-based web application allows users to upload audio files and tran
     - The temporary audio file is deleted after processing to save space.
 
 ## Interface
-![image](https://github.com/user-attachments/assets/118bb9df-36d3-4383-9a79-d345345c7d85)
+- ![image](https://github.com/user-attachments/assets/118bb9df-36d3-4383-9a79-d345345c7d85)
 
-After transcription:
-![image](https://github.com/user-attachments/assets/04abb1fa-d6f1-4534-8f1f-8c374548755d)
+After transcription: 
+- ![image](https://github.com/user-attachments/assets/04abb1fa-d6f1-4534-8f1f-8c374548755d)
 
 ## Developer
 
