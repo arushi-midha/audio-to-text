@@ -26,6 +26,14 @@ This Streamlit-based web application allows users to upload audio files and tran
 After transcription: 
 - ![image](https://github.com/user-attachments/assets/04abb1fa-d6f1-4534-8f1f-8c374548755d)
 
+## Requirements
+
+- Python 3.x
+- Streamlit
+- SpeechRecognition
+- PyAudio (for audio processing)
+- Google Speech Recognition API key (if using the API directly)
+
 ## Developer
 
 - **Arushi Midha** - [GitHub](https://github.com/arushi-midha)
